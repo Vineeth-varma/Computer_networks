@@ -41,12 +41,26 @@
  ![image](https://user-images.githubusercontent.com/60296821/148343612-7b0e5012-dd4f-40b7-b294-aeb58304b4a6.png)
 
 ## Types of Area Networks
-* k allows computers to connect and communicate with different computers via any medium. LAN, MAN, and WAN are the three major types of networks designed to operate over the area they cover. There are some similarities and dissimilarities between them. One of the major differences is the geographical area they cover, i.e. LAN covers the smallest area; MAN covers an area larger than LAN and WAN comprises the largest of all. 
-There are other types of Computer Networks also, like : 
- 
+* The network allows computers to connect and communicate with different computers via any medium. **LAN, MAN, and WAN** are the three major types of networks designed to operate over the area they cover. There are some similarities and dissimilarities between them. One of the major differences is the geographical area they cover, i.e. **LAN covers the smallest area; MAN covers an area larger than LAN and WAN comprises the largest of all**. 
+* There are other types of Computer Networks also, like : 
+  * PAN (Personal Area Network)
+  * SAN (Storage Area Network)
+  * EPN (Enterprise Private Network)
+  * VPN (Virtual Private Network)
 
-PAN (Personal Area Network)
-SAN (Storage Area Network)
-EPN (Enterprise Private Network)
-VPN (Virtual Private Network)
+### Mobile Adhoc Network (MANET)
+* MANET stands for Mobile Adhoc Network also called a wireless Adhoc network or Adhoc wireless network that usually has a routable networking environment on top of a Link Layer ad hoc network.. They consist of a set of mobile nodes connected wirelessly in a self-configured, self-healing network without having a fixed infrastructure. MANET nodes are free to move randomly as the network topology changes frequently. Each node behaves as a router as they forward traffic to other specified nodes in the network. 
+* ![image](https://user-images.githubusercontent.com/60296821/148353519-e50530fc-6030-4c2a-bccf-d82107b0a7e3.png)
+**Types**:
+**1.Vehicular Ad hoc Network (VANETs)** – Enable effective communication with another vehicle or with the roadside equipments. Intelligent vehicular ad hoc networks(InVANETs) deals with another vehicle or with roadside equipments. 
+
+**2.Smart Phone Ad hoc Network (SPANC)** –  To create peer-to-peer networks without relying on cellular carrier networks, wireless access points, or traditional network infrastructure. Here peers can join or leave the network without destroying it. 
+ 
+**3.Internet based Mobile Ad hoc Network (iMANETs)** – It supports internet protocols such as TCP/UDP and IP. To link mobile nodes and establish routes distributed and automatically. 
+ 
+**4.Hub-Spoke MANET:** - Multiple sub MANET’s may be connected in hub-spoke VPN to create a geographically distributed MANET. Normal Ad-hoc routing algorithm does not apply directly. 
+ 
+**5.Military or Tactical MANETs** – This is used by the military units. Emphasis on data rate, real-time demand, fast re-routing during mobility, security, radio range, etc. 
+ 
+**6.Flying Ad hoc Network (FANETs)** – This is composed of unmanned aerial vehicles (commonly known as drones). Provides links to remote areas and mobility. 
 
