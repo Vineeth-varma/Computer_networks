@@ -64,3 +64,8 @@
  
 **6.Flying Ad hoc Network (FANETs)** – This is composed of unmanned aerial vehicles (commonly known as drones). Provides links to remote areas and mobility. 
 
+### DSL
+Digital Subscriber Line (DSL, originally, digital subscriber loop) is a communication medium, which is used to transfer internet through copper wire telecommunication line. Along with cable internet, DSL is one of the most popular ways ISPs provide broadband internet access. 
+* If we ask that how we gonna achieve such a thing i.e., both telephone and internet facility, then the answer is by using ****splitters or DSL** filters**(shown in the below diagram). Basically, the use splitter is to splits the frequency and make sure that they can’t get interrupted.
+![image](https://user-images.githubusercontent.com/60296821/148416445-3b6ea1ed-9a36-472b-a90f-b5b6e2ace358.png)
+
